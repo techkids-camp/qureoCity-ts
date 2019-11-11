@@ -1,3 +1,3 @@
 function Run() {
-    player.say("Hello World")
+    player.say("Hi!")
 }
