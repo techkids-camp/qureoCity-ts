@@ -1,5 +1,5 @@
 class A{
-    hogeA(){
+    public hogeA(){
         player.say("hogeA")
     }
 } 
